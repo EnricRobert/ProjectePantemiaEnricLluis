@@ -10,7 +10,8 @@ Un cop dins de l’opció desitjada podem tornar a sortir al menú o bé quan ha
 Crear un taulell random  
 Aquesta opció ens crearía un taulell de dimensions aleatories i infectats aleatoris (des de 0 a 10).  
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/TaulellRandom.PNG)  
-
+Crear un taulell manual  
+Aquesta opció ens crearía un taulell de dimensions especificades i infectats especificats (des de 0 a 10).   
 
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/TaulellManual.PNG)  
 Introduir malalts  
