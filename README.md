@@ -35,5 +35,5 @@ Mostrar Informació
 En aquest apartat podem observar l'estat actual del nostre taulell.  
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/MostrarInformacio.PNG)  
 Exit  
-Utilitzarem el número 0 per a sortir de l'aplicació.
+Utilitzarem el número 0 per a sortir de l'aplicació.  
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/exit.PNG)  
