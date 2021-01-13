@@ -37,3 +37,6 @@ En aquest apartat podem observar l'estat actual del nostre taulell.
 Exit  
 Utilitzarem el número 0 per a sortir de l'aplicació.  
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/exit.PNG)  
+
+Proposta de millora  
+A l'apartat d'introduir malalts, hem implementat un petit menú per a continuar introduint malalts o parar quan es dessitgi sense necessitat de sortir al menú principal.  
