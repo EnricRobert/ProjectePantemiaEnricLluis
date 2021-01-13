@@ -4,7 +4,7 @@
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/tree/main/CapturesProjecte/TaulellManual.png)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/tree/main/CapturesProjecte/IntroduirMalalts.png)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/tree/main/CapturesProjecte/NousMalalts.png)
-![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/tree/main/CapturesProjecte/CasNegatiuMalalts.png)
+![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/CasnegatiuMalalts.PNG)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/tree/main/CapturesProjecte/CuraGlobalPercentatge.png)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/tree/main/CapturesProjecte/CuraConcretamentValor.png)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/tree/main/CapturesProjecte/DesplaçarMalalts.png)
