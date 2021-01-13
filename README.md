@@ -6,7 +6,7 @@
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/NousMalalts.PNG)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/CasnegatiuMalalts.PNG)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/CuraGlobalPercentatge.PNG)
-![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/CuraConcretamentValor.PNG)
+![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/CurarConcretamentValor.PNG)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/DesplaçarMalalts.PNG)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/MostrarInformacio.PNG)
 ![alt text](https://github.com/EnricRobert/ProjectePantemiaEnricLluis/blob/main/CapturesProjecte/Exit.PNG)
